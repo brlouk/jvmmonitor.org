@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/a/eclipselabs.org/jvmmonitor/!svn/ver/62/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core
+END
+IHeapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IHeapElement.java
+END
+IActiveJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IActiveJvm.java
+END
+IJvmModelChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IJvmModelChangeListener.java
+END
+IAgentLoadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IAgentLoadHandler.java
+END
+IJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IJvm.java
+END
+ISWTResourceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/ISWTResourceMonitor.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/Messages.java
+END
+ISWTResourceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/ISWTResourceElement.java
+END
+ISnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/a/eclipselabs.org/jvmmonitor/!svn/ver/17/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/ISnapshot.java
+END
+IStackTraceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IStackTraceProvider.java
+END
+IHeapDumpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IHeapDumpHandler.java
+END
+JvmModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/a/eclipselabs.org/jvmmonitor/!svn/ver/62/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/JvmModel.java
+END
+JvmModelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/JvmModelEvent.java
+END
+ITerminatedJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/ITerminatedJvm.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/messages.properties
+END
+JvmCoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/JvmCoreException.java
+END
+IHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/a/eclipselabs.org/jvmmonitor/!svn/ver/27/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IHost.java
+END
+IJvmAttachHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IJvmAttachHandler.java
+END
+IThreadElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/IThreadElement.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/Activator.java
+END

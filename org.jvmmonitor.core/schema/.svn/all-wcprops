@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/schema
+END
+org.jvmmonitor.core.agentLoadHandler.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/schema/org.jvmmonitor.core.agentLoadHandler.exsd
+END
+org.jvmmonitor.core.jvmAttachHandler.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/schema/org.jvmmonitor.core.jvmAttachHandler.exsd
+END
+org.jvmmonitor.core.heapDumpHandler.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/schema/org.jvmmonitor.core.heapDumpHandler.exsd
+END

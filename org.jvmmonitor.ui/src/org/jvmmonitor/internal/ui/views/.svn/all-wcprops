@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/a/eclipselabs.org/jvmmonitor/!svn/ver/72/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views
+END
+NewJvmConnectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/NewJvmConnectionAction.java
+END
+NewJvmConnectionWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/37/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/NewJvmConnectionWizardPage.java
+END
+RenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/RenameAction.java
+END
+JvmTreeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/JvmTreeLabelProvider.java
+END
+NewJvmConnectionWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/37/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/NewJvmConnectionWizard.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/61/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/Messages.java
+END
+StopMonitoringAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/StopMonitoringAction.java
+END
+JvmExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/a/eclipselabs.org/jvmmonitor/!svn/ver/31/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/JvmExplorer.java
+END
+JvmTreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/a/eclipselabs.org/jvmmonitor/!svn/ver/72/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/JvmTreeViewer.java
+END
+OpenSnapshotAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/OpenSnapshotAction.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/DeleteAction.java
+END
+StartMonitoringAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/StartMonitoringAction.java
+END
+JvmTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/JvmTreeContentProvider.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/a/eclipselabs.org/jvmmonitor/!svn/ver/61/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/views/messages.properties
+END

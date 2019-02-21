@@ -1,0 +1,49 @@
+10
+
+dir
+78
+http://svn.codespot.com/a/eclipselabs.org/jvmmonitor/trunk
+http://svn.codespot.com/a/eclipselabs.org/jvmmonitor
+
+
+
+2013-02-02T14:23:03.069013Z
+77
+yoshitaka1008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ef11078e-a1a8-38b1-dc62-c05aa50c2aa3
+
+org.jvmmonitor.doc
+dir
+
+org.jvmmonitor.core
+dir
+
+org.jvmmonitor.ui
+dir
+
+org.jvmmonitor.agent
+dir
+
+org.jvmmonitor.tools
+dir
+
+org.jvmmonitor
+dir
+
+org.jvmmonitor.update
+dir
+

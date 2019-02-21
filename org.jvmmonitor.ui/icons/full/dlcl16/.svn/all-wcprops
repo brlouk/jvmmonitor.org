@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/a/eclipselabs.org/jvmmonitor/!svn/ver/20/trunk/org.jvmmonitor.ui/icons/full/dlcl16
+END
+refresh.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/refresh.gif
+END
+take_cpu_dump.gif
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/take_cpu_dump.gif
+END
+take_thread_dump.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/take_thread_dump.gif
+END
+resume.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/resume.gif
+END
+suspend.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/suspend.gif
+END
+trash.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/trash.gif
+END
+take_heap_dump.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/take_heap_dump.gif
+END
+clear.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/clear.gif
+END
+take_hprof_dump.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/a/eclipselabs.org/jvmmonitor/!svn/ver/16/trunk/org.jvmmonitor.ui/icons/full/dlcl16/take_hprof_dump.gif
+END
+new_chart.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/icons/full/dlcl16/new_chart.gif
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/a/eclipselabs.org/jvmmonitor/!svn/ver/22/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean
+END
+IMonitoredMXBeanAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/IMonitoredMXBeanAttribute.java
+END
+MBeanServerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/a/eclipselabs.org/jvmmonitor/!svn/ver/20/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/MBeanServerEvent.java
+END
+IMBeanServerChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/IMBeanServerChangeListener.java
+END
+IMonitoredMXBeanGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/IMonitoredMXBeanGroup.java
+END
+IMBeanServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/a/eclipselabs.org/jvmmonitor/!svn/ver/22/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/IMBeanServer.java
+END
+IMBeanNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/mbean/IMBeanNotification.java
+END

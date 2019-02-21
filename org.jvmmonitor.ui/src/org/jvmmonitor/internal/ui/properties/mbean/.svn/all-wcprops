@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/a/eclipselabs.org/jvmmonitor/!svn/ver/67/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean
+END
+NotificationFilteredTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/a/eclipselabs.org/jvmmonitor/!svn/ver/67/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationFilteredTree.java
+END
+MBeanSashForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanSashForm.java
+END
+MBeanContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanContentProvider.java
+END
+InvokeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/InvokeAction.java
+END
+OperationsContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/OperationsContentProvider.java
+END
+AbstractMBeanTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AbstractMBeanTab.java
+END
+MBeanLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanLabelProvider.java
+END
+OperationsLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/OperationsLabelProvider.java
+END
+NotificationsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/a/eclipselabs.org/jvmmonitor/!svn/ver/66/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationsTab.java
+END
+IMBeanNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/IMBeanNode.java
+END
+AttributeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AttributeContentProvider.java
+END
+NotificationDetailsDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/a/eclipselabs.org/jvmmonitor/!svn/ver/20/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationDetailsDialogAction.java
+END
+MBeanDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanDomain.java
+END
+AttributeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/a/eclipselabs.org/jvmmonitor/!svn/ver/20/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AttributeLabelProvider.java
+END
+NotificationsContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationsContentProvider.java
+END
+AttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AttributeParser.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/messages.properties
+END
+NotificationsLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationsLabelProvider.java
+END
+MBeansSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/a/eclipselabs.org/jvmmonitor/!svn/ver/51/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeansSection.java
+END
+NotificationColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationColumn.java
+END
+MBeanTabFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanTabFolder.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/Messages.java
+END
+AttributeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AttributeNode.java
+END
+OperationsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/a/eclipselabs.org/jvmmonitor/!svn/ver/55/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/OperationsTab.java
+END
+InvokeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/a/eclipselabs.org/jvmmonitor/!svn/ver/26/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/InvokeDialog.java
+END
+NotificationDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/a/eclipselabs.org/jvmmonitor/!svn/ver/26/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationDetailsDialog.java
+END
+AttributesTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/a/eclipselabs.org/jvmmonitor/!svn/ver/66/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/AttributesTab.java
+END
+NotificationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/NotificationComparator.java
+END
+MBeanFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanFolder.java
+END
+SubscribeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/SubscribeAction.java
+END
+MBeanFilteredTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/a/eclipselabs.org/jvmmonitor/!svn/ver/63/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBeanFilteredTree.java
+END
+MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/a/eclipselabs.org/jvmmonitor/!svn/ver/44/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/mbean/MBean.java
+END

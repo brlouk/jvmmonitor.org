@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/a/eclipselabs.org/jvmmonitor/!svn/ver/64/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory
+END
+SWTResourceLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/a/eclipselabs.org/jvmmonitor/!svn/ver/35/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/SWTResourceLabelProvider.java
+END
+DumpHeapAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/14/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/DumpHeapAction.java
+END
+DumpHprofAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/DumpHprofAction.java
+END
+HeapComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapComparator.java
+END
+SWTResourcesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/a/eclipselabs.org/jvmmonitor/!svn/ver/64/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/SWTResourcesPage.java
+END
+IHeapInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/IHeapInput.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/a/eclipselabs.org/jvmmonitor/!svn/ver/37/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/Messages.java
+END
+HeapFilteredTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/a/eclipselabs.org/jvmmonitor/!svn/ver/63/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapFilteredTree.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/37/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/messages.properties
+END
+HeapContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapContentProvider.java
+END
+SWTResourceFilteredTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/a/eclipselabs.org/jvmmonitor/!svn/ver/63/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/SWTResourceFilteredTree.java
+END
+HeapHistogramPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/a/eclipselabs.org/jvmmonitor/!svn/ver/64/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapHistogramPage.java
+END
+HeapLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapLabelProvider.java
+END
+ISWTResorceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/ISWTResorceInput.java
+END
+ClearSWTResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/ClearSWTResourceAction.java
+END
+HeapColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/HeapColumn.java
+END
+SWTResourceContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/SWTResourceContentProvider.java
+END
+ClearHeapDeltaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/ClearHeapDeltaAction.java
+END
+GarbageCollectorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/a/eclipselabs.org/jvmmonitor/!svn/ver/11/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/GarbageCollectorAction.java
+END
+MemorySection.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.ui/src/org/jvmmonitor/internal/ui/properties/memory/MemorySection.java
+END

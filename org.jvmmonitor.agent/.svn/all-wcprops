@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/a/eclipselabs.org/jvmmonitor/!svn/ver/74/trunk/org.jvmmonitor.agent
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/a/eclipselabs.org/jvmmonitor/!svn/ver/8/trunk/org.jvmmonitor.agent/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/a/eclipselabs.org/jvmmonitor/!svn/ver/8/trunk/org.jvmmonitor.agent/.project
+END
+build.jardesc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/a/eclipselabs.org/jvmmonitor/!svn/ver/8/trunk/org.jvmmonitor.agent/build.jardesc
+END

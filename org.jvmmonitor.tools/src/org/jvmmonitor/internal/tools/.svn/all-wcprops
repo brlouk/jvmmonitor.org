@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/a/eclipselabs.org/jvmmonitor/!svn/ver/73/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools
+END
+AgentLoadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/AgentLoadHandler.java
+END
+ToolsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/a/eclipselabs.org/jvmmonitor/!svn/ver/73/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/ToolsPreferencePage.java
+END
+JvmAttachHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/JvmAttachHandler.java
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/a/eclipselabs.org/jvmmonitor/!svn/ver/73/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/Tools.java
+END
+HeapDumpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/HeapDumpHandler.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/messages.properties
+END
+ToolsPreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/ToolsPreferenceInitializer.java
+END
+IConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/a/eclipselabs.org/jvmmonitor/!svn/ver/73/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/IConstants.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/src/org/jvmmonitor/internal/tools/Messages.java
+END

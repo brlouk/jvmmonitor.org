@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/a/eclipselabs.org/jvmmonitor/!svn/ver/74/trunk/org.jvmmonitor.tools
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/plugin.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/a/eclipselabs.org/jvmmonitor/!svn/ver/10/trunk/org.jvmmonitor.tools/.project
+END

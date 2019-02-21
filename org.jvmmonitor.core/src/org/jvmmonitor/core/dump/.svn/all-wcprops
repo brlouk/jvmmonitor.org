@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump
+END
+HeapDumpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump/HeapDumpParser.java
+END
+IProfileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump/IProfileInfo.java
+END
+AbstractDumpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump/AbstractDumpParser.java
+END
+ThreadDumpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump/ThreadDumpParser.java
+END
+CpuDumpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/core/dump/CpuDumpParser.java
+END

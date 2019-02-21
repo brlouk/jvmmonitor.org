@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/a/eclipselabs.org/jvmmonitor/!svn/ver/74/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core
+END
+SWTResourceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/a/eclipselabs.org/jvmmonitor/!svn/ver/42/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/SWTResourceMonitor.java
+END
+Snapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/a/eclipselabs.org/jvmmonitor/!svn/ver/18/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/Snapshot.java
+END
+SWTResourceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/a/eclipselabs.org/jvmmonitor/!svn/ver/33/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/SWTResourceElement.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/a/eclipselabs.org/jvmmonitor/!svn/ver/40/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/Messages.java
+END
+MonitoredMXBeanGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/a/eclipselabs.org/jvmmonitor/!svn/ver/20/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/MonitoredMXBeanGroup.java
+END
+MBeanServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/a/eclipselabs.org/jvmmonitor/!svn/ver/64/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/MBeanServer.java
+END
+ThreadDumpSaxEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/ThreadDumpSaxEventHandler.java
+END
+TerminatedJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/TerminatedJvm.java
+END
+ProfileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/ProfileInfo.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/Util.java
+END
+Host.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/a/eclipselabs.org/jvmmonitor/!svn/ver/27/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/Host.java
+END
+HeapDumpSaxEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/HeapDumpSaxEventHandler.java
+END
+MonitoredMXBeanAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/MonitoredMXBeanAttribute.java
+END
+AbstractJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/AbstractJvm.java
+END
+ThreadElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/ThreadElement.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/a/eclipselabs.org/jvmmonitor/!svn/ver/40/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/messages.properties
+END
+HeapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/a/eclipselabs.org/jvmmonitor/!svn/ver/9/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/HeapElement.java
+END
+ActiveJvm.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/a/eclipselabs.org/jvmmonitor/!svn/ver/40/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/ActiveJvm.java
+END
+MBeanNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/a/eclipselabs.org/jvmmonitor/!svn/ver/35/trunk/org.jvmmonitor.core/src/org/jvmmonitor/internal/core/MBeanNotification.java
+END
